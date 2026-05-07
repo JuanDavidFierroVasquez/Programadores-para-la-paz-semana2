@@ -45,4 +45,4 @@ de las decisiones de ese archivo.
 Respuesta: estas seria las mejoras mas importantes:
 Validacion de campos: indicar cuales son obligatorios con un asterisco (*)
 Mensaje de confirmacion: mostrar un aviso cuando el usuario envia la propuesta
-Accesibilidad: asegurar colores y contraste para que ayude al usuario
+Accesibilidad: asegurar colores y contraste para que ayude al usuario.
