@@ -1,0 +1,6 @@
+los comandos utilizados para la actividad son:
+mkdir
+pwd
+ls
+cd 
+touch
