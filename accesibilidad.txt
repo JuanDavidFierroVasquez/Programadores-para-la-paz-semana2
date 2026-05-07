@@ -5,31 +5,44 @@ Fecha: 02/05/2026
 Rama: Main
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: Si. el titulo (formulario para una mejor ciudadania) 
+Es directo e identifica bien el proposito de la pagina.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: Si. el parrafo indica que la informacion se usara
+para fines de participacion y organizacion comunitaria.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: Si. todos los campos poseen una etiqueta visiblible 
+que ayuda a entender aun mejor el formulario
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Si. el lenguaje es sencillo, claro y accesible.
+cualquier persona puede entenderlo sin dificultad
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: Si. solo solicita nombre, propuestas y un contacto adicional.
+No pide datos sensibles ni informacion irrelevante
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta: Si. El campo tiene una etiqueta descriptiva 
+que orienta al usuario sobre que escribir.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: Si. hay un cuadro de chequeo que posee el texto que dice 
+(acepto que mi informacion sea usada unicamente para fines de participacion comunitaria)
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: Si. El boton dice (enviar participacion) lo cual es especifico
+y describe la accion que se realizara.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: Si. en cuanto  a estructura si aunque el formulario apareceria sin estilos
+visuales propios. con estilos aplicados propios correctamente, la legibilidad dependera
+de las decisiones de ese archivo.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: estas seria las mejoras mas importantes:
+Validacion de campos: indicar cuales son obligatorios con un asterisco (*)
+Mensaje de confirmacion: mostrar un aviso cuando el usuario envia la propuesta
+Accesibilidad: asegurar colores y contraste para que ayude al usuario
